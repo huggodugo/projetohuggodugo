@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  /* text-align: center; */
+  background-color: rgb(0, 0, 0);
+  /* font-family: Arial, Helvetica, sans-serif; */
+  color:coral;
+}
+canvas {
+  display: block;
+  /* margin: auto; */
+}
